@@ -21,3 +21,6 @@ In "Vampire Survivors Clone," players must survive in a world infested with vamp
 
 ## Contributions and Feedback
 Any contributions to improving the project are welcome! If you have suggestions or find any issues, please create a new Issue or submit a Pull Request.
+
+## Dovnload build
+https://ve1es.itch.io/vampire-survivors-clone
